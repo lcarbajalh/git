@@ -2,3 +2,5 @@ Si quieres ver los archivos ocultos de una carpeta puedes habilitar la opción d
 Vista > Mostrar u ocultar > Elementos ocultos (en Windows) o ejecutar el comando ls -a.
 
 mi nombre es Luis Carbajal
+
+en camara parece alto
